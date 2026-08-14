@@ -1,0 +1,261 @@
+parcel_id,property_address,property_address_norm,property_city,property_state,property_zip,owner_name,assessed_value,absentee_owner,last_sale_date,year_built,fsbo_days_on_market,fsbo_discount_pct,expired_days_on_market,expired_discount_pct,delinquent_amount,years_delinquent,is_fsbo,is_expired_listing,is_tax_delinquent,motivation_score,lead_tier,state_current_zhvi,value_vs_state_market_pct,priced_below_market
+EH759579,463 Brian Union,463 BRIAN UNION,Nashville,TN,55967,Joshua Shaw,266299,True,2000-09-21,1969,,,210.0,0.029,4228.54,3.0,False,True,True,95,Hot,372985.0,-0.286,True
+BF400499,8872 Nelson Valleys Apt. 527,8872 NELSON VALLEYS APT. 527,San Antonio,TX,85473,Cody Doyle,597719,True,2006-12-19,1991,,,131.0,0.057,8732.53,3.0,False,True,True,95,Hot,328350.0,0.82,False
+HF471324,691 Scott View Suite 785,691 SCOTT VIEW SUITE 785,Nashville,TN,7868,Caitlin Collins,219592,True,2012-06-22,1988,,,195.0,0.029,2436.68,2.0,False,True,True,90,Hot,372985.0,-0.411,True
+DE034471,1832 Serrano Cliffs,1832 SERRANO CLIFFS,Orlando,FL,8317,Eric Curry,328651,True,2005-01-22,1979,,,88.0,0.083,10410.25,1.0,False,True,True,85,Hot,413685.0,-0.206,True
+FD549904,174 Richard Parkway,174 RICHARD PARKWAY,Las Vegas,NV,92717,Melissa Fowler,222731,True,2006-01-02,1992,177.0,0.0,,,8477.58,3.0,True,False,True,80,Hot,469878.0,-0.526,True
+EG521667,2120 Dale Ramp Suite 972,2120 DALE RAMP SUITE 972,Las Vegas,NV,80628,Ian Johnson,465644,True,2005-10-11,1957,,,73.0,0.0,9243.7,1.0,False,True,True,75,Hot,469878.0,-0.009,False
+BH589944,4544 Lopez Path,4544 LOPEZ PATH,Phoenix,AZ,31997,Renee Lang,137549,True,1999-05-16,1969,,,,,2091.35,4.0,False,False,True,75,Hot,460610.0,-0.701,True
+GG060715,1605 Laurie River Suite 516,1605 LAURIE RIVER SUITE 516,Orlando,FL,14376,Kevin Warren,530552,True,2010-10-23,1957,,,,,10635.93,4.0,False,False,True,75,Hot,413685.0,0.283,False
+DA115869,687 Thomas Common Suite 089,687 THOMAS COMMON SUITE 089,Phoenix,AZ,68241,Megan Oliver,473629,True,2014-09-09,1976,,,,,11303.55,4.0,False,False,True,75,Hot,460610.0,0.028,False
+CG672434,79796 Stephens Turnpike Suite 891,79796 STEPHENS TURNPIKE SUITE 891,Jacksonville,FL,14836,Mary Kelly,199680,True,2003-06-14,2018,,,,,1283.18,4.0,False,False,True,75,Hot,413685.0,-0.517,True
+CA006231,750 Hopkins Brook,750 HOPKINS BROOK,Dallas,TX,1367,Jennifer Smith,334762,True,2006-11-19,1980,,,,,6972.53,4.0,False,False,True,75,Hot,328350.0,0.02,False
+GD330604,12797 Delacruz Gateway,12797 DELACRUZ GATEWAY,Houston,TX,56541,Andrew Moss,483124,False,2005-01-11,1967,,,146.0,0.057,1468.21,3.0,False,True,True,70,Hot,328350.0,0.471,False
+HG026012,43519 Jenny Locks,43519 JENNY LOCKS,Las Vegas,NV,80974,Donna Stuart,461371,False,2000-07-28,1960,136.0,0.083,,,10043.27,4.0,True,False,True,70,Hot,469878.0,-0.018,False
+HB931572,96105 Hobbs Mews Suite 139,96105 HOBBS MEWS SUITE 139,Tampa,FL,1999,Lynn Brown,251745,False,2003-03-27,1976,208.0,0.029,,,11888.65,4.0,True,False,True,70,Hot,413685.0,-0.391,True
+BA191826,234 Rosales Unions Suite 557,234 ROSALES UNIONS SUITE 557,Charlotte,NC,36146,Tony Taylor,195389,False,2012-03-23,1993,,,111.0,0.057,9770.74,3.0,False,True,True,70,Hot,370385.0,-0.472,True
+BC368157,780 John Pines,780 JOHN PINES,Phoenix,AZ,40468,James Moore,144714,False,2018-08-28,2002,,,98.0,0.029,2651.04,4.0,False,True,True,65,Warm,460610.0,-0.686,True
+FA438421,78078 James Orchard,78078 JAMES ORCHARD,Nashville,TN,96503,Emily Murphy,198699,True,2022-10-24,1997,,,,,3095.93,4.0,False,False,True,65,Warm,372985.0,-0.467,True
+AA890901,7618 Wells Drives,7618 WELLS DRIVES,San Antonio,TX,27435,Lorraine Turner,439709,True,2005-03-26,1981,,,,,8110.89,2.0,False,False,True,65,Warm,328350.0,0.339,False
+BG146774,6527 Jose Mountain,6527 JOSE MOUNTAIN,Charlotte,NC,35025,Derrick Brown,399445,True,2008-12-14,1977,38.0,0.083,88.0,0.057,,,True,True,False,60,Warm,370385.0,0.078,False
+BD785932,8039 Kelly Villages,8039 KELLY VILLAGES,San Antonio,TX,23269,Kevin Drake,452351,True,2016-05-21,2009,,,216.0,0.057,,,False,True,False,60,Warm,328350.0,0.378,False
+BH297500,27706 Wendy Curve,27706 WENDY CURVE,Phoenix,AZ,85697,Shannon Mcdowell,370150,True,1998-05-24,1993,,,109.0,0.029,,,False,True,False,60,Warm,460610.0,-0.196,True
+GB162713,55426 Darlene Springs,55426 DARLENE SPRINGS,Orlando,FL,19225,Justin Bishop,485533,True,2012-06-28,1979,,,177.0,0.057,,,False,True,False,60,Warm,413685.0,0.174,False
+DG994043,037 Rodriguez Parks Apt. 805,037 RODRIGUEZ PARKS APT. 805,Columbus,OH,41981,Scott Carroll,585951,True,2020-07-13,1974,173.0,0.057,90.0,0.083,,,True,True,False,60,Warm,230888.0,1.538,False
+HD540331,3854 Owens Run,3854 OWENS RUN,Tampa,FL,47589,Ian Andrade,175131,True,2003-04-06,1964,,,88.0,0.029,,,False,True,False,60,Warm,413685.0,-0.577,True
+BA397767,498 Brandon Drive,498 BRANDON DR,Houston,TX,7718,Amanda Nash,340021,True,2011-11-26,2013,,,140.0,0.083,,,False,True,False,60,Warm,328350.0,0.036,False
+EH706537,347 Micheal Ports,347 MICHEAL PORTS,Houston,TX,58250,Douglas Reyes,433254,True,2004-08-11,1998,,,208.0,0.029,,,False,True,False,60,Warm,328350.0,0.319,False
+AG937124,657 Jordan View Apt. 459,657 JORDAN VIEW APT. 459,Columbus,OH,91634,Ernest Oconnell,553711,False,2006-03-19,2010,197.0,0.057,,,8217.72,1.0,True,False,True,55,Warm,230888.0,1.398,False
+GE275705,65820 Melinda Springs,65820 MELINDA SPRINGS,Atlanta,GA,57933,Austin Osborne,297963,False,2000-10-23,1986,175.0,0.057,,,7085.3,1.0,True,False,True,55,Warm,369973.0,-0.195,True
+FG141633,804 Justin Locks Suite 182,804 JUSTIN LOCKS SUITE 182,San Antonio,TX,62964,Daniel Berry,201005,True,2005-07-19,2006,190.0,0.057,,,,,True,False,False,55,Warm,328350.0,-0.388,True
+HC459332,956 Todd Unions Apt. 391,956 TODD UNIONS APT. 391,Tampa,FL,69380,Michael Miller,222413,False,2018-08-04,1956,,,75.0,0.0,5961.39,4.0,False,True,True,55,Warm,413685.0,-0.462,True
+FF773592,2588 Luis Mountain Apt. 473,2588 LUIS MOUNTAIN APT. 473,Jacksonville,FL,18966,Dylan Cruz,562700,True,2005-08-19,2003,161.0,0.083,,,,,True,False,False,55,Warm,413685.0,0.36,False
+FB280988,6049 Bell Ports Apt. 273,6049 BELL PORTS APT. 273,Phoenix,AZ,14685,Justin Wilson,349249,False,2018-05-25,2017,,,189.0,0.083,2967.41,2.0,False,True,True,55,Warm,460610.0,-0.242,True
+BH098593,612 Sophia Hollow Suite 113,612 SOPHIA HOLLOW SUITE 113,Jacksonville,FL,70958,Jesse Santiago,138458,True,2005-08-20,1964,149.0,0.029,,,,,True,False,False,55,Warm,413685.0,-0.665,True
+FH392649,29832 Barker Pine,29832 BARKER PINE,Columbus,OH,18228,Terry Carrillo,258099,True,2006-08-17,1973,248.0,0.029,,,,,True,False,False,55,Warm,230888.0,0.118,False
+GG334101,700 Christopher Vista Suite 591,700 CHRISTOPHER VISTA SUITE 591,Dallas,TX,69727,Crystal Valenzuela,263982,True,2007-10-24,1991,149.0,0.083,,,,,True,False,False,55,Warm,328350.0,-0.196,True
+DD379660,191 Michael Flat Suite 147,191 MICHAEL FLAT SUITE 147,Atlanta,GA,69669,Emily Price,469353,True,2017-08-21,2011,,,,,8068.7,2.0,False,False,True,55,Warm,369973.0,0.269,False
+HA413836,410 Phyllis Pike,410 PHYLLIS PIKE,Phoenix,AZ,54641,Jacqueline Villegas,391338,True,2005-12-03,2010,110.0,0.057,,,,,True,False,False,55,Warm,460610.0,-0.15,True
+HC930848,3942 Mason Course Suite 580,3942 MASON COURSE SUITE 580,Dallas,TX,87359,Victor Holden,510252,False,2000-03-24,1958,,,122.0,0.0,13645.65,1.0,False,True,True,50,Warm,328350.0,0.554,False
+GC099861,991 Anna Courts,991 ANNA COURTS,Phoenix,AZ,37999,Sheryl Humphrey,581081,False,2000-03-25,1983,,,,,10722.77,4.0,False,False,True,50,Warm,460610.0,0.262,False
+CF577594,2053 Jennifer Row Suite 452,2053 JENNIFER ROW SUITE 452,Jacksonville,FL,89574,Sherry Ford,370439,False,1998-03-09,1994,,,214.0,0.0,12245.31,1.0,False,True,True,50,Warm,413685.0,-0.105,True
+EG430305,0345 Michelle Isle Suite 156,0345 MICHELLE ISLE SUITE 156,Tampa,FL,52932,Stephanie Hughes,210096,True,2022-03-10,1968,90.0,0.029,185.0,0.057,,,True,True,False,50,Warm,413685.0,-0.492,True
+EB323651,37215 Brad Mountain,37215 BRAD MOUNTAIN,Houston,TX,7138,Kenneth Underwood,172804,True,2017-07-20,1985,,,177.0,0.057,,,False,True,False,50,Warm,328350.0,-0.474,True
+GH541199,9359 Mason Circle,9359 MASON CIRCLE,Jacksonville,FL,59551,Steven Cooper,376193,False,2011-08-01,2004,,,,,1289.77,4.0,False,False,True,50,Warm,413685.0,-0.091,True
+HC846773,98214 Morgan Turnpike Suite 044,98214 MORGAN TURNPIKE SUITE 044,Jacksonville,FL,77432,Mary Grimes,289312,False,2006-01-23,2010,,,,,14310.77,4.0,False,False,True,50,Warm,413685.0,-0.301,True
+CA172233,63294 Bartlett Valley Apt. 168,63294 BARTLETT VALLEY APT. 168,Orlando,FL,52583,Shannon Stone,595254,True,2007-12-28,1998,,,180.0,0.0,,,False,True,False,50,Warm,413685.0,0.439,False
+FD963259,8774 Johnson Lock,8774 JOHNSON LOCK,Tampa,FL,66750,David Aguilar,608317,True,2008-03-16,1982,55.0,0.029,,,,,True,False,False,45,Warm,413685.0,0.47,False
+CA259222,4742 Rachel Flats Apt. 940,4742 RACHEL FLATS APT. 940,Tampa,FL,60616,Mr. Robert Franklin MD,533814,False,2001-05-08,1993,181.0,0.0,173.0,0.057,,,True,True,False,45,Warm,413685.0,0.29,False
+AB619399,998 Donovan Ford Suite 346,998 DONOVAN FORD SUITE 346,Las Vegas,NV,17655,Elizabeth Stewart,617276,False,2014-03-02,1965,188.0,0.029,112.0,0.083,,,True,True,False,45,Warm,469878.0,0.314,False
+GH895798,774 Mary Harbor,774 MARY HARBOR,Phoenix,AZ,68828,Mr. Jeremiah Reeves,202235,True,2021-09-05,1989,214.0,0.057,,,,,True,False,False,45,Warm,460610.0,-0.561,True
+CE691557,251 Kevin Falls,251 KEVIN FALLS,Nashville,TN,49430,Kayla Barnes,303446,False,2006-09-05,1991,252.0,0.0,152.0,0.029,,,True,True,False,45,Warm,372985.0,-0.186,True
+EF826773,019 Amanda Stream Apt. 262,019 AMANDA STREAM APT. 262,Nashville,TN,5264,Jennifer Simpson DVM,291939,True,2008-02-24,1978,115.0,0.0,,,,,True,False,False,45,Warm,372985.0,-0.217,True
+BG123685,8175 Richards View,8175 RICHARDS VIEW,Houston,TX,84196,Ashley Hall,336277,True,2019-05-08,1980,101.0,0.083,,,,,True,False,False,45,Warm,328350.0,0.024,False
+GA491476,83268 Choi Divide Suite 508,83268 CHOI DIVIDE SUITE 508,Phoenix,AZ,73255,Andrew Armstrong,313072,True,2002-11-16,1983,79.0,0.029,,,,,True,False,False,45,Warm,460610.0,-0.32,True
+HC413797,9292 Jackson Spur,9292 JACKSON SPUR,Dallas,TX,45415,Linda Jones,209346,True,2009-07-04,1991,231.0,0.0,,,,,True,False,False,45,Warm,328350.0,-0.362,True
+CC603029,202 Nielsen Path,202 NIELSEN PATH,Tampa,FL,53644,Kristy Smith,534611,True,2013-10-15,2008,253.0,0.0,,,,,True,False,False,45,Warm,413685.0,0.292,False
+GD686508,5991 Anderson Neck Apt. 149,5991 ANDERSON NECK APT. 149,Columbus,OH,71768,Colin Fletcher,147443,True,1998-04-10,1982,17.0,0.057,,,,,True,False,False,45,Warm,230888.0,-0.361,True
+FC183764,881 Olson Hills,881 OLSON HILLS,Las Vegas,NV,26548,Anthony Estrada,549022,True,2012-09-17,1975,87.0,0.057,,,,,True,False,False,45,Warm,469878.0,0.168,False
+EB635365,80238 Stephanie Cliff Suite 445,80238 STEPHANIE CLIFF SUITE 445,Tampa,FL,11823,Aimee Gonzalez,434525,False,2019-09-13,1995,,,,,14206.4,4.0,False,False,True,40,Warm,413685.0,0.05,False
+FD670662,4720 Deborah Parks,4720 DEBORAH PARKS,San Antonio,TX,54501,Karen Miller,240069,False,2005-08-21,1987,,,,,14304.74,2.0,False,False,True,40,Warm,328350.0,-0.269,True
+CB488899,5224 Preston Gateway,5224 PRESTON GATEWAY,Houston,TX,31040,Eric Duncan,129581,False,2019-06-25,1971,,,,,2469.34,4.0,False,False,True,40,Warm,328350.0,-0.605,True
+DH493316,516 Sara Villages,516 SARA VILLAGES,Houston,TX,88599,Patricia Hayes,203206,False,2013-12-15,1964,,,,,5977.56,2.0,False,False,True,40,Warm,328350.0,-0.381,True
+FD688143,822 Jeffrey Village Suite 312,822 JEFFREY VILLAGE SUITE 312,Dallas,TX,88447,Sarah York,457121,False,2015-06-04,1990,,,,,3306.75,2.0,False,False,True,40,Warm,328350.0,0.392,False
+ED900109,078 May Hollow Suite 364,078 MAY HOLLOW SUITE 364,Jacksonville,FL,59947,Anthony Gonzales,371433,False,2008-04-27,1966,,,,,2381.65,2.0,False,False,True,40,Warm,413685.0,-0.102,True
+DA465669,84895 Richmond Harbor,84895 RICHMOND HARBOR,Houston,TX,30162,Cheyenne Spears,527983,False,2007-02-13,1957,,,,,8667.38,2.0,False,False,True,40,Warm,328350.0,0.608,False
+BE328569,303 Sandy Crescent Suite 990,303 SANDY CRESCENT SUITE 990,Columbus,OH,41040,Mary Thompson,551694,False,2001-09-15,1956,,,,,6340.92,2.0,False,False,True,40,Warm,230888.0,1.389,False
+GB182307,0915 Small Cove,0915 SMALL COVE,Charlotte,NC,68734,Nichole Johnson,459412,True,2015-06-27,1977,,,,,,,False,False,False,35,Cold,370385.0,0.24,False
+GC609539,518 Peter Mountains,518 PETER MOUNTAINS,Orlando,FL,6207,Veronica King,249784,False,2005-03-16,1969,,,129.0,0.029,,,False,True,False,35,Cold,413685.0,-0.396,True
+CF786691,7852 Katrina Curve,7852 KATRINA CURVE,Jacksonville,FL,57205,Sheena Guerra,469781,True,2018-08-23,1974,14.0,0.083,,,,,True,False,False,35,Cold,413685.0,0.136,False
+EB733221,592 Moore Falls,592 MOORE FALLS,Las Vegas,NV,91313,Rhonda Martin,539433,True,2002-08-06,1961,,,,,,,False,False,False,35,Cold,469878.0,0.148,False
+GB184992,1173 Kimberly Village,1173 KIMBERLY VILLAGE,Charlotte,NC,69070,Heather Ortiz,307220,True,2016-04-27,1984,,,,,,,False,False,False,35,Cold,370385.0,-0.171,True
+AB277167,508 Tiffany Skyway Suite 889,508 TIFFANY SKYWAY SUITE 889,Orlando,FL,12984,Nicholas Olson,144944,True,2002-12-14,1969,,,,,,,False,False,False,35,Cold,413685.0,-0.65,True
+EE965207,6099 Matthew Station Apt. 875,6099 MATTHEW STATION APT. 875,Orlando,FL,66995,Christopher Sandoval,232254,True,2010-08-12,2008,,,,,,,False,False,False,35,Cold,413685.0,-0.439,True
+GF493296,1227 Boyle Avenue,1227 BOYLE AVE,Phoenix,AZ,34682,Jeremy Adams,293547,False,2007-04-12,1977,,,218.0,0.083,,,False,True,False,35,Cold,460610.0,-0.363,True
+EF547226,39452 William Square,39452 WILLIAM SQUARE,Orlando,FL,83977,Brian Bell,430981,True,2010-10-17,1992,,,,,,,False,False,False,35,Cold,413685.0,0.042,False
+DB442258,37058 Mcdonald Plaza,37058 MCDONALD PLAZA,Nashville,TN,17510,Angelica Parker,447806,True,1998-07-27,2017,50.0,0.0,,,,,True,False,False,35,Cold,372985.0,0.201,False
+AG982708,292 Dale Shoals Suite 866,292 DALE SHOALS SUITE 866,Nashville,TN,80323,Pamela Hill,427758,False,2017-03-03,1971,,,,,4046.3,3.0,False,False,True,35,Cold,372985.0,0.147,False
+HD775891,847 Bruce Neck,847 BRUCE NECK,Dallas,TX,53141,Brian Joseph,351303,True,2001-08-05,2014,,,,,,,False,False,False,35,Cold,328350.0,0.07,False
+CE771093,613 Steven Crest,613 STEVEN CREST,Atlanta,GA,85397,Kathleen Moran,418914,True,2011-10-17,1969,,,,,,,False,False,False,35,Cold,369973.0,0.132,False
+GH787429,5655 Mia Isle,5655 MIA ISLE,San Antonio,TX,54456,Donna Landry,437235,False,1998-02-09,1977,,,176.0,0.083,,,False,True,False,35,Cold,328350.0,0.332,False
+GH787558,39636 Louis Mountains Suite 627,39636 LOUIS MOUNTAINS SUITE 627,Orlando,FL,5353,Vincent Rivera,296606,True,2009-07-03,1997,,,,,,,False,False,False,35,Cold,413685.0,-0.283,True
+HA554398,573 Susan Springs,573 SUSAN SPRINGS,San Antonio,TX,42566,Robert Wilson,187758,False,2011-02-24,2002,16.0,0.029,182.0,0.029,,,True,True,False,35,Cold,328350.0,-0.428,True
+HF018366,4599 Nicole Drives,4599 NICOLE DRIVES,Atlanta,GA,21133,Amber Miller,442161,True,2008-09-03,1972,,,,,,,False,False,False,35,Cold,369973.0,0.195,False
+AE493689,44550 Molly Port,44550 MOLLY PORT,Houston,TX,86660,Charles Schultz,377936,False,2012-02-23,1991,,,,,4323.34,1.0,False,False,True,35,Cold,328350.0,0.151,False
+GC662103,79908 Christopher Shoals,79908 CHRISTOPHER SHOALS,Tampa,FL,17583,Kimberly Smith,600271,False,2014-11-10,1960,,,,,6943.92,1.0,False,False,True,35,Cold,413685.0,0.451,False
+CH282722,37314 Young Skyway Apt. 856,37314 YOUNG SKYWAY APT. 856,Houston,TX,62062,Sierra Williams,315583,True,2010-07-15,1998,,,,,,,False,False,False,35,Cold,328350.0,-0.039,False
+EB136502,00979 Nathan Corners Apt. 271,00979 NATHAN CORNERS APT. 271,Orlando,FL,90409,Tara Shea,386635,False,2010-07-25,1998,79.0,0.0,66.0,0.083,,,True,True,False,35,Cold,413685.0,-0.065,True
+HA021442,20735 Collins Union,20735 COLLINS UNION,Las Vegas,NV,65826,Mrs. Raven Rivera DVM,154879,True,2012-02-26,1998,,,,,,,False,False,False,35,Cold,469878.0,-0.67,True
+DG955276,6472 Tiffany Spur Apt. 143,6472 TIFFANY SPUR APT. 143,Phoenix,AZ,73290,James Thomas,243557,True,2006-04-06,1974,,,,,,,False,False,False,35,Cold,460610.0,-0.471,True
+GD098180,5126 Green Plain Suite 959,5126 GREEN PLAIN SUITE 959,Houston,TX,36619,Jennifer Harris DDS,357931,False,2007-06-04,1955,128.0,0.0,119.0,0.0,,,True,True,False,35,Cold,328350.0,0.09,False
+FB343244,6226 Vincent Village,6226 VINCENT VILLAGE,Phoenix,AZ,88063,Andrea Hensley,517398,True,2008-09-15,2008,,,,,,,False,False,False,35,Cold,460610.0,0.123,False
+GA799684,62003 Christensen Estates,62003 CHRISTENSEN ESTATES,Nashville,TN,38068,Brianna Brown,541096,False,2001-12-04,1982,,,120.0,0.083,,,False,True,False,35,Cold,372985.0,0.451,False
+HF912127,85374 Baker Crest Apt. 249,85374 BAKER CREST APT. 249,Houston,TX,5787,Scott Hernandez,138225,False,2008-01-10,2000,,,133.0,0.029,,,False,True,False,35,Cold,328350.0,-0.579,True
+EC020275,41056 Warren Greens Apt. 778,41056 WARREN GREENS APT. 778,Atlanta,GA,47703,Scott Jackson,519893,False,2018-03-03,2015,,,,,2762.85,3.0,False,False,True,35,Cold,369973.0,0.405,False
+HC431069,0614 Gonzalez Burg,0614 GONZALEZ BURG,Columbus,OH,27626,Edgar Miller,552236,True,1999-10-12,1971,,,,,,,False,False,False,35,Cold,230888.0,1.392,False
+CB251355,0433 Michael Turnpike Apt. 006,0433 MICHAEL TURNPIKE APT. 006,Houston,TX,57939,Tracy Wilkerson,141426,True,2017-12-16,1991,225.0,0.0,,,,,True,False,False,35,Cold,328350.0,-0.569,True
+EC356804,7883 Steven Unions,7883 STEVEN UNIONS,Dallas,TX,18823,Antonio Norman,242640,False,2005-09-14,1978,,,186.0,0.029,,,False,True,False,35,Cold,328350.0,-0.261,True
+AG626383,8759 Price Falls Apt. 593,8759 PRICE FALLS APT. 593,Nashville,TN,4341,Paula Brown,99853,False,2012-05-22,1975,,,182.0,0.083,,,False,True,False,35,Cold,372985.0,-0.732,True
+FB343517,46990 Jacob Trace,46990 JACOB TRACE,Phoenix,AZ,77516,Kristin Mendoza,194053,False,2022-04-21,1982,258.0,0.0,216.0,0.083,,,True,True,False,35,Cold,460610.0,-0.579,True
+DB106903,079 John Cape,079 JOHN CAPE,Orlando,FL,53226,Joshua Webster,408594,True,2000-04-04,2008,,,,,,,False,False,False,35,Cold,413685.0,-0.012,False
+GC182512,04786 Morrow Gateway,04786 MORROW GATEWAY,Atlanta,GA,60876,Donald Pineda,167680,False,2016-11-22,1961,116.0,0.029,206.0,0.083,,,True,True,False,35,Cold,369973.0,-0.547,True
+GB267888,58199 Shields Bridge,58199 SHIELDS BRIDGE,Houston,TX,38754,Richard Hardy,330044,True,2019-10-19,1957,83.0,0.029,,,,,True,False,False,35,Cold,328350.0,0.005,False
+AG154152,361 Aaron Neck Apt. 293,361 AARON NECK APT. 293,Phoenix,AZ,68585,Alexandra Dominguez,603425,False,2002-08-18,2016,,,148.0,0.029,,,False,True,False,35,Cold,460610.0,0.31,False
+GB580783,0745 Scott Crest,0745 SCOTT CREST,Orlando,FL,31557,Oscar Norris,208972,True,2012-02-21,1974,,,,,,,False,False,False,35,Cold,413685.0,-0.495,True
+CC296627,2257 Michelle Branch Suite 236,2257 MICHELLE BRANCH SUITE 236,Charlotte,NC,74108,Kathleen Cohen,598257,False,2001-01-21,1985,,,,,13607.06,1.0,False,False,True,35,Cold,370385.0,0.615,False
+BB507146,4573 Bailey Court,4573 BAILEY COURT,Nashville,TN,57932,Jodi Jones,354659,True,2008-02-25,2006,,,,,,,False,False,False,35,Cold,372985.0,-0.049,False
+CB525002,56915 Morris Estate Suite 752,56915 MORRIS ESTATE SUITE 752,Atlanta,GA,93192,Melissa Mcfarland,489889,True,2016-06-19,1992,,,,,,,False,False,False,35,Cold,369973.0,0.324,False
+BB371452,751 Acosta Pass,751 ACOSTA PASS,Dallas,TX,80726,Jamie James,95506,False,2000-01-09,1982,,,,,11030.23,1.0,False,False,True,35,Cold,328350.0,-0.709,True
+FE369378,772 Jackson Stravenue Suite 280,772 JACKSON STRAVENUE SUITE 280,Jacksonville,FL,69175,Ryan Landry,332720,True,2007-12-10,2013,,,,,,,False,False,False,35,Cold,413685.0,-0.196,True
+FD805892,67998 Jeffrey Highway,67998 JEFFREY HIGHWAY,Tampa,FL,52185,George Alvarez,135814,False,2011-06-22,1985,,,,,4135.09,1.0,False,False,True,35,Cold,413685.0,-0.672,True
+FF591166,5904 Vanessa Ridges,5904 VANESSA RIDGES,Jacksonville,FL,58462,Jessica Glass,340786,True,2007-08-27,1979,,,,,,,False,False,False,35,Cold,413685.0,-0.176,True
+AB656999,0388 Terrell Canyon Suite 803,0388 TERRELL CANYON SUITE 803,Las Vegas,NV,38666,Stephen Ayala,441577,False,2002-03-02,1991,,,82.0,0.083,,,False,True,False,35,Cold,469878.0,-0.06,True
+FC469548,772 Jeanette Fields Apt. 107,772 JEANETTE FIELDS APT. 107,Houston,TX,82481,Nancy Clark,526802,True,2003-11-22,1965,,,,,,,False,False,False,35,Cold,328350.0,0.604,False
+FG717535,320 Tran Prairie,320 TRAN PRAIRIE,Nashville,TN,76410,Elizabeth Gonzalez,518361,True,2012-12-20,2015,,,,,,,False,False,False,35,Cold,372985.0,0.39,False
+AG031731,994 Michael Rest Apt. 037,994 MICHAEL REST APT. 037,Jacksonville,FL,10981,Mark Ward,178834,True,2007-09-13,1997,,,,,,,False,False,False,35,Cold,413685.0,-0.568,True
+FB209593,87829 Morris Row Suite 118,87829 MORRIS ROW SUITE 118,Nashville,TN,86863,Russell Anderson,238298,True,2009-05-21,2005,,,,,,,False,False,False,35,Cold,372985.0,-0.361,True
+CF784873,749 Casey Drives Suite 448,749 CASEY DRIVES SUITE 448,Nashville,TN,48619,Ricardo Hunter,495341,True,2007-05-24,1974,,,,,,,False,False,False,35,Cold,372985.0,0.328,False
+GA684577,9082 Smith Forges,9082 SMITH FORGES,Charlotte,NC,28658,Alison Short,234247,True,2002-02-10,1967,,,,,,,False,False,False,35,Cold,370385.0,-0.368,True
+HB047116,29413 Angela Mall,29413 ANGELA MALL,Charlotte,NC,79972,Lisa Rowe,350222,False,2006-03-26,1968,30.0,0.0,100.0,0.083,,,True,True,False,35,Cold,370385.0,-0.054,True
+BE561595,656 Spencer Fields Suite 629,656 SPENCER FIELDS SUITE 629,Houston,TX,75094,Joshua Smith,346150,False,2009-05-06,2011,82.0,0.0,203.0,0.057,,,True,True,False,35,Cold,328350.0,0.054,False
+DG791769,3201 Robinson Unions Suite 083,3201 ROBINSON UNIONS SUITE 083,Tampa,FL,16407,Robert Contreras,403921,False,2019-02-05,1988,248.0,0.0,,,4190.62,1.0,True,False,True,35,Cold,413685.0,-0.024,False
+CG957612,289 Mahoney Island Suite 566,289 MAHONEY ISLAND SUITE 566,Phoenix,AZ,95641,David Gardner,413869,True,2003-04-11,2017,,,,,,,False,False,False,35,Cold,460610.0,-0.101,True
+AB729806,72046 Lewis Islands Suite 646,72046 LEWIS ISLANDS SUITE 646,Phoenix,AZ,33566,Julie Curry,136228,False,1998-06-25,1971,,,181.0,0.083,,,False,True,False,35,Cold,460610.0,-0.704,True
+GC053315,26025 Pham Way,26025 PHAM WAY,Atlanta,GA,96846,Debra Cobb,505011,True,2002-11-21,1993,,,,,,,False,False,False,35,Cold,369973.0,0.365,False
+GF429401,9816 Jonathan Station Suite 088,9816 JONATHAN STATION SUITE 088,Dallas,TX,90528,Natalie Lambert,313508,True,2014-05-05,1999,,,,,,,False,False,False,35,Cold,328350.0,-0.045,False
+BD030564,76724 John Points Suite 969,76724 JOHN POINTS SUITE 969,Las Vegas,NV,52851,Zachary Taylor,445784,True,2001-04-07,1979,,,,,,,False,False,False,35,Cold,469878.0,-0.051,True
+GB710122,9784 Erin Crescent Suite 514,9784 ERIN CRESCENT SUITE 514,Orlando,FL,57486,Aaron Bowen,236991,False,2011-03-09,2014,,,217.0,0.057,,,False,True,False,35,Cold,413685.0,-0.427,True
+DC482814,88095 Smith Lake Suite 303,88095 SMITH LAKE SUITE 303,Tampa,FL,74865,Angelica Tucker,169046,True,2012-09-04,1961,,,,,,,False,False,False,35,Cold,413685.0,-0.591,True
+GF667010,33872 White Mountain,33872 WHITE MOUNTAIN,Las Vegas,NV,33243,Angela Morton,499386,True,2006-08-10,2009,,,,,,,False,False,False,35,Cold,469878.0,0.063,False
+DC810801,7360 Nicholas Loaf Suite 746,7360 NICHOLAS LOAF SUITE 746,Houston,TX,91804,Whitney Peters,600311,False,2002-04-10,1982,89.0,0.083,107.0,0.029,,,True,True,False,35,Cold,328350.0,0.828,False
+DA966055,441 Evans Plaza,441 EVANS PLAZA,Phoenix,AZ,42958,Ashley Cook,468120,False,2000-09-18,2019,231.0,0.029,,,,,True,False,False,30,Cold,460610.0,0.016,False
+AE991241,3193 Heidi Hollow Apt. 905,3193 HEIDI HOLLOW APT. 905,Las Vegas,NV,70328,Jacob Hunter,207308,False,2000-12-05,1959,177.0,0.029,,,,,True,False,False,30,Cold,469878.0,-0.559,True
+HH436995,387 Donna Haven Suite 134,387 DONNA HAVEN SUITE 134,Tampa,FL,29945,Brittany Williams,407212,False,2017-11-17,1956,,,,,4083.74,2.0,False,False,True,30,Cold,413685.0,-0.016,False
+EC824172,135 Julie Inlet Suite 554,135 JULIE INLET SUITE 554,Nashville,TN,77252,Samuel Ruiz,252029,False,2011-11-04,2017,178.0,0.083,,,,,True,False,False,30,Cold,372985.0,-0.324,True
+DD842199,833 Craig Isle,833 CRAIG ISLE,Columbus,OH,94526,Michael Taylor,565786,False,2006-05-09,1984,145.0,0.029,,,,,True,False,False,30,Cold,230888.0,1.45,False
+CH628900,17535 Williams Fork Suite 631,17535 WILLIAMS FORK SUITE 631,Phoenix,AZ,60675,Kenneth Miller,589380,False,2012-06-17,1968,240.0,0.029,,,,,True,False,False,30,Cold,460610.0,0.28,False
+DB185016,996 Johnson Groves Suite 735,996 JOHNSON GROVES SUITE 735,Atlanta,GA,72988,Jessica Frazier,614783,False,2015-08-15,1965,208.0,0.029,,,,,True,False,False,30,Cold,369973.0,0.662,False
+HD275326,21965 Edwards Dam,21965 EDWARDS DAM,Las Vegas,NV,32978,Bradley Tran,340405,False,2016-07-08,2007,256.0,0.057,,,,,True,False,False,30,Cold,469878.0,-0.276,True
+FD506068,53051 Moody Dam Apt. 472,53051 MOODY DAM APT. 472,Nashville,TN,92977,Luis Bullock,144615,False,2009-04-21,1963,223.0,0.029,,,,,True,False,False,30,Cold,372985.0,-0.612,True
+FE443757,98665 Kelly Heights Apt. 574,98665 KELLY HEIGHTS APT. 574,Houston,TX,98456,Dale Ryan,450455,False,2011-12-18,1997,202.0,0.057,,,,,True,False,False,30,Cold,328350.0,0.372,False
+EA004797,2456 Williams Center,2456 WILLIAMS CENTER,Nashville,TN,75248,Heidi Roberts,360902,False,2008-05-20,1990,246.0,0.057,,,,,True,False,False,30,Cold,372985.0,-0.032,False
+BD438057,84066 Frye Spur Suite 800,84066 FRYE SPUR SUITE 800,Phoenix,AZ,97975,Marc Norman,329592,False,2011-06-27,2013,168.0,0.057,,,,,True,False,False,30,Cold,460610.0,-0.284,True
+HG869261,53773 Garcia Spur Suite 850,53773 GARCIA SPUR SUITE 850,Jacksonville,FL,52685,Walter Rush,293880,False,2020-12-13,2018,,,127.0,0.083,,,False,True,False,25,Cold,413685.0,-0.29,True
+HC182037,4665 Kristina Rue Suite 151,4665 KRISTINA RUE SUITE 151,Columbus,OH,73634,Diane Cummings,513956,True,2021-03-27,2014,70.0,0.0,,,,,True,False,False,25,Cold,230888.0,1.226,False
+FD713900,318 Brenda Via,318 BRENDA VIA,Columbus,OH,31040,Charles Lester,244739,False,2018-12-01,1968,,,189.0,0.083,,,False,True,False,25,Cold,230888.0,0.06,False
+BG994510,49998 Tammy Summit,49998 TAMMY SUMMIT,Dallas,TX,76387,Andrew Mack,614108,True,2017-09-01,1985,,,,,,,False,False,False,25,Cold,328350.0,0.87,False
+AC472649,718 Hector Prairie Apt. 665,718 HECTOR PRAIRIE APT. 665,Nashville,TN,59599,Jesse Mosley,585404,False,2020-03-25,2015,124.0,0.0,69.0,0.0,,,True,True,False,25,Cold,372985.0,0.57,False
+ED855744,351 James Streets,351 JAMES STREETS,Atlanta,GA,63965,Kevin Wolf,252060,False,2005-03-26,1977,,,95.0,0.0,,,False,True,False,25,Cold,369973.0,-0.319,True
+CC345581,2316 Rivera Mountain,2316 RIVERA MOUNTAIN,Columbus,OH,54997,Ross Price,310861,True,2020-06-07,1988,,,,,,,False,False,False,25,Cold,230888.0,0.346,False
+BA909656,3888 Sean Lock,3888 SEAN LOCK,Tampa,FL,61195,Leah Mason,509904,True,2022-09-02,2013,,,,,,,False,False,False,25,Cold,413685.0,0.233,False
+CH035797,2414 Paul Estates Apt. 333,2414 PAUL ESTATES APT. 333,Houston,TX,35770,Kayla Hancock,433939,True,2017-04-21,1963,,,,,,,False,False,False,25,Cold,328350.0,0.322,False
+CH556909,7192 Sanders Run Suite 310,7192 SANDERS RUN SUITE 310,Orlando,FL,96927,Joseph Mcintyre,406232,True,2019-10-26,1970,,,,,,,False,False,False,25,Cold,413685.0,-0.018,False
+ED767976,6149 Rose Inlet,6149 ROSE INLET,Houston,TX,6453,William Brown,491641,True,2020-03-23,1982,,,,,,,False,False,False,25,Cold,328350.0,0.497,False
+CG518449,9184 Kaufman Fork Suite 557,9184 KAUFMAN FORK SUITE 557,Jacksonville,FL,63692,Adriana Macias,416775,True,2021-06-25,1965,,,,,,,False,False,False,25,Cold,413685.0,0.007,False
+FD208737,11972 Kimberly Club,11972 KIMBERLY CLUB,Dallas,TX,95339,Summer Newman,244721,True,2017-01-09,1973,,,,,,,False,False,False,25,Cold,328350.0,-0.255,True
+CC238692,693 Durham Divide,693 DURHAM DIVIDE,Jacksonville,FL,30934,David Scott,487562,True,2019-12-06,1993,,,,,,,False,False,False,25,Cold,413685.0,0.179,False
+GE947174,1906 Munoz Burg Apt. 399,1906 MUNOZ BURG APT. 399,Dallas,TX,3220,Miss Debra Williams PhD,382136,False,2000-05-12,2006,,,123.0,0.0,,,False,True,False,25,Cold,328350.0,0.164,False
+BC687849,5585 James Pass,5585 JAMES PASS,Orlando,FL,53111,Amber Taylor,290337,False,2000-04-24,2007,,,137.0,0.0,,,False,True,False,25,Cold,413685.0,-0.298,True
+CF578729,69495 Erickson Hills Suite 055,69495 ERICKSON HILLS SUITE 055,Las Vegas,NV,88818,Jason Parker,341997,False,2020-08-21,2017,146.0,0.0,105.0,0.0,,,True,True,False,25,Cold,469878.0,-0.272,True
+BB654235,55940 Herrera Lane Apt. 849,55940 HERRERA LANE APT. 849,Houston,TX,47901,Michele Williams,191639,True,2019-07-12,2009,,,,,,,False,False,False,25,Cold,328350.0,-0.416,True
+HA181599,296 Brian Isle Apt. 368,296 BRIAN ISLE APT. 368,Atlanta,GA,95139,Kimberly Guerrero,233423,False,2018-02-21,1960,,,,,2227.24,1.0,False,False,True,25,Cold,369973.0,-0.369,True
+GE547935,1939 Erin Plaza Apt. 737,1939 ERIN PLAZA APT. 737,Las Vegas,NV,38686,Andrea Abbott,605611,False,2000-08-12,2007,,,133.0,0.0,,,False,True,False,25,Cold,469878.0,0.289,False
+EE241182,534 King Vista,534 KING VISTA,Houston,TX,7159,Jeff Hill,348175,False,2016-10-02,1965,,,95.0,0.029,,,False,True,False,25,Cold,328350.0,0.06,False
+FF028439,2836 Hill Point,2836 HILL POINT,Nashville,TN,78051,Susan Garrett,326650,False,2022-09-13,2012,,,133.0,0.057,,,False,True,False,25,Cold,372985.0,-0.124,True
+AF723430,97882 Susan Common,97882 SUSAN COMMON,Nashville,TN,24857,Barry Hensley,153918,False,2021-06-02,1961,71.0,0.057,163.0,0.083,,,True,True,False,25,Cold,372985.0,-0.587,True
+EA478077,9308 Lopez Points Suite 632,9308 LOPEZ POINTS SUITE 632,Phoenix,AZ,94209,Jean Gray,493159,False,2012-10-18,1960,72.0,0.0,181.0,0.0,,,True,True,False,25,Cold,460610.0,0.071,False
+BD107991,51354 Samuel Plains Suite 980,51354 SAMUEL PLAINS SUITE 980,Phoenix,AZ,88039,Elizabeth Alvarado,161849,False,2017-02-22,1985,189.0,0.029,,,,,True,False,False,20,Cold,460610.0,-0.649,True
+FG687056,46287 Melissa Hills Apt. 708,46287 MELISSA HILLS APT. 708,Las Vegas,NV,54591,Kristin Anderson,401797,False,2016-07-10,1962,61.0,0.029,,,,,True,False,False,20,Cold,469878.0,-0.145,True
+FC941343,82400 Terry Crossroad Suite 109,82400 TERRY CROSSROAD SUITE 109,Tampa,FL,37769,Jeremiah Lopez,115990,False,2003-12-11,2007,65.0,0.029,,,,,True,False,False,20,Cold,413685.0,-0.72,True
+DF824225,43842 Mendez Course Apt. 992,43842 MENDEZ COURSE APT. 992,San Antonio,TX,22940,Michelle Jacobs,373201,False,2017-09-25,2016,204.0,0.029,,,,,True,False,False,20,Cold,328350.0,0.137,False
+CH074329,96666 Reyes Camp,96666 REYES CAMP,Houston,TX,70464,Jake Smith,337582,False,2009-02-22,2002,34.0,0.029,,,,,True,False,False,20,Cold,328350.0,0.028,False
+BG775170,88019 Wu Points Apt. 755,88019 WU POINTS APT. 755,San Antonio,TX,7614,Sarah Rivera,322311,False,2017-01-24,1993,156.0,0.057,,,,,True,False,False,20,Cold,328350.0,-0.018,False
+AD335211,0514 Ruiz Isle,0514 RUIZ ISLE,Dallas,TX,27896,Christy Payne,551999,False,2012-05-25,2003,143.0,0.0,,,,,True,False,False,20,Cold,328350.0,0.681,False
+BB904268,1848 Benson Lane Suite 357,1848 BENSON LANE SUITE 357,Phoenix,AZ,89838,Kevin Johnson,270222,False,2017-08-27,2001,134.0,0.083,,,,,True,False,False,20,Cold,460610.0,-0.413,True
+EE416389,3122 Rodriguez Motorway Suite 497,3122 RODRIGUEZ MOTORWAY SUITE 497,Las Vegas,NV,25114,Christian Booker,287383,False,2008-10-16,2019,67.0,0.057,,,,,True,False,False,20,Cold,469878.0,-0.388,True
+EF435334,142 Joshua Bridge Apt. 385,142 JOSHUA BRIDGE APT. 385,Tampa,FL,72507,Charles Bush,577192,False,2020-08-21,1978,210.0,0.057,,,,,True,False,False,20,Cold,413685.0,0.395,False
+GA257532,23098 David Station,23098 DAVID STATION,Atlanta,GA,85768,Jaime Bowman,566805,False,2000-11-07,1957,239.0,0.0,,,,,True,False,False,20,Cold,369973.0,0.532,False
+EB878141,975 Anderson Shoal,975 ANDERSON SHOAL,Columbus,OH,31241,Manuel Mccullough,539956,False,2015-10-20,1958,45.0,0.083,,,,,True,False,False,20,Cold,230888.0,1.339,False
+GB722569,53554 Jacobs Locks,53554 JACOBS LOCKS,Phoenix,AZ,36054,Priscilla Mcmillan,421495,False,2002-08-03,2015,48.0,0.057,,,,,True,False,False,20,Cold,460610.0,-0.085,True
+HE872588,562 Julie Mission Apt. 138,562 JULIE MISSION APT. 138,Houston,TX,53003,Rebecca Mendez,541574,False,2003-03-13,1984,38.0,0.029,,,,,True,False,False,20,Cold,328350.0,0.649,False
+ED780913,1172 Berger Cape,1172 BERGER CAPE,Tampa,FL,43017,Elaine Brooks,432027,False,2010-12-10,1971,82.0,0.029,,,,,True,False,False,20,Cold,413685.0,0.044,False
+FA684577,751 Robinson Meadow,751 ROBINSON MEADOW,Las Vegas,NV,28268,Frank Campbell MD,233139,False,2000-05-25,2008,141.0,0.0,,,,,True,False,False,20,Cold,469878.0,-0.504,True
+CC839826,4721 Ryan Manor Suite 715,4721 RYAN MANOR SUITE 715,Tampa,FL,33491,Michelle Simpson,372602,False,2016-01-25,1977,255.0,0.0,,,,,True,False,False,20,Cold,413685.0,-0.099,True
+CE182278,83465 Lam Mission Apt. 331,83465 LAM MISSION APT. 331,Tampa,FL,44814,Julian Chapman,105474,False,2000-04-06,2007,,,,,,,False,False,False,10,Cold,413685.0,-0.745,True
+FB010310,7382 Sanchez Mountains,7382 SANCHEZ MOUNTAINS,San Antonio,TX,53855,Brent Jordan,314130,False,2010-01-06,2003,,,,,,,False,False,False,10,Cold,328350.0,-0.043,False
+HG487282,7831 Parker Loop Suite 240,7831 PARKER LOOP SUITE 240,Tampa,FL,513,Olivia Taylor,391022,False,2000-11-28,1966,,,,,,,False,False,False,10,Cold,413685.0,-0.055,True
+DA962923,498 Mario Squares Suite 494,498 MARIO SQUARES SUITE 494,San Antonio,TX,67926,Miss Anna Estes,396039,False,2014-12-09,2008,,,,,,,False,False,False,10,Cold,328350.0,0.206,False
+CF604223,672 Burton Lane,672 BURTON LANE,Tampa,FL,59744,Robert Mack,585158,False,2005-08-18,1973,,,,,,,False,False,False,10,Cold,413685.0,0.415,False
+AA241913,07562 Sarah Walks,07562 SARAH WALKS,Jacksonville,FL,5136,Suzanne Yang,367896,False,2008-10-23,2005,,,,,,,False,False,False,10,Cold,413685.0,-0.111,True
+EH144739,21727 Lisa Vista,21727 LISA VISTA,Charlotte,NC,42390,Michelle Pierce,133064,False,2009-09-14,2002,,,,,,,False,False,False,10,Cold,370385.0,-0.641,True
+CD862890,30705 Joshua View,30705 JOSHUA VIEW,Las Vegas,NV,61347,Madison Martinez,479518,False,2001-11-08,2015,,,,,,,False,False,False,10,Cold,469878.0,0.021,False
+FH506716,2849 Marshall Views,2849 MARSHALL VIEWS,Nashville,TN,96318,Erica Sanchez,245287,False,2011-03-02,1994,,,,,,,False,False,False,10,Cold,372985.0,-0.342,True
+GF147379,5273 Salinas Junctions,5273 SALINAS JUNCTIONS,Las Vegas,NV,37156,Meredith Hill,131832,False,2009-04-22,1986,,,,,,,False,False,False,10,Cold,469878.0,-0.719,True
+GA487920,04394 Steven Branch Apt. 645,04394 STEVEN BRANCH APT. 645,Columbus,OH,14642,Sean Banks,528997,False,2003-04-26,1972,,,,,,,False,False,False,10,Cold,230888.0,1.291,False
+EA677496,34123 Andrea Estate,34123 ANDREA ESTATE,Columbus,OH,851,Michael Harrison,130605,False,2013-04-07,2013,,,,,,,False,False,False,10,Cold,230888.0,-0.434,True
+FE909670,8893 Robinson Mews Suite 065,8893 ROBINSON MEWS SUITE 065,Dallas,TX,88171,Jennifer Martin,353319,False,1999-02-21,2009,,,,,,,False,False,False,10,Cold,328350.0,0.076,False
+HF160733,30365 Lin Trail Suite 586,30365 LIN TRAIL SUITE 586,Dallas,TX,89566,Ms. Teresa Wilson,166066,False,1998-08-20,1967,,,,,,,False,False,False,10,Cold,328350.0,-0.494,True
+HC204618,6013 Wise Mills,6013 WISE MILLS,Tampa,FL,32897,Amanda Murray,178425,False,2014-11-06,1960,,,,,,,False,False,False,10,Cold,413685.0,-0.569,True
+DC723184,59136 Cortez Orchard,59136 CORTEZ ORCHARD,Orlando,FL,89004,Daniel Martin,253137,False,2003-10-02,1965,,,,,,,False,False,False,10,Cold,413685.0,-0.388,True
+FE925192,91486 Li Skyway Apt. 685,91486 LI SKYWAY APT. 685,Tampa,FL,2890,Christopher Lewis,118276,False,2010-10-19,1958,,,,,,,False,False,False,10,Cold,413685.0,-0.714,True
+BE547812,341 Patricia Vista,341 PATRICIA VISTA,Charlotte,NC,66977,Robin Riley,458074,False,1998-03-28,1973,,,,,,,False,False,False,10,Cold,370385.0,0.237,False
+BB645352,5231 Jonathan Extensions,5231 JONATHAN EXTENSIONS,Nashville,TN,79458,Peter Jones,488858,False,2013-01-12,1993,,,,,,,False,False,False,10,Cold,372985.0,0.311,False
+DD735989,2122 Nicholas Meadow Suite 842,2122 NICHOLAS MEADOW SUITE 842,Columbus,OH,21594,Dawn Rivera,189704,False,2008-07-11,1987,,,,,,,False,False,False,10,Cold,230888.0,-0.178,True
+BD997571,5488 Park Cape,5488 PARK CAPE,Phoenix,AZ,22017,Rodney Newton MD,122663,False,1999-08-28,2006,,,,,,,False,False,False,10,Cold,460610.0,-0.734,True
+FB807154,087 Brown Path Suite 977,087 BROWN PATH SUITE 977,Las Vegas,NV,7265,Joshua Pennington,368361,False,1999-02-20,2010,,,,,,,False,False,False,10,Cold,469878.0,-0.216,True
+CA744701,5611 Alec Dam Apt. 557,5611 ALEC DAM APT. 557,Las Vegas,NV,82002,Nicholas Watson,352829,False,2003-02-22,1958,,,,,,,False,False,False,10,Cold,469878.0,-0.249,True
+BA406403,1801 Johnson Lodge Apt. 265,1801 JOHNSON LODGE APT. 265,Charlotte,NC,50633,Thomas Bennett,354742,False,2013-02-27,1963,,,,,,,False,False,False,10,Cold,370385.0,-0.042,False
+AC467997,2996 Randy Isle Apt. 074,2996 RANDY ISLE APT. 074,Dallas,TX,49317,Robert Turner,506716,False,2015-06-03,2005,,,,,,,False,False,False,10,Cold,328350.0,0.543,False
+HD949375,06038 Fields Square,06038 FIELDS SQUARE,San Antonio,TX,1758,April Sandoval,601650,False,2015-01-20,1963,,,,,,,False,False,False,10,Cold,328350.0,0.832,False
+CD590599,427 Christopher Fort Apt. 087,427 CHRISTOPHER FORT APT. 087,Nashville,TN,590,Lucas Drake,569027,False,2007-04-13,2016,,,,,,,False,False,False,10,Cold,372985.0,0.526,False
+EC539264,096 Ian Island,096 IAN ISLAND,Columbus,OH,80635,Keith Zuniga,399571,False,1998-11-13,1990,,,,,,,False,False,False,10,Cold,230888.0,0.731,False
+EA862392,8181 Miller Estates Suite 782,8181 MILLER ESTATES SUITE 782,Dallas,TX,57841,Thomas Velasquez,487542,False,2006-07-09,1965,15.0,0.0,,,,,True,False,False,10,Cold,328350.0,0.485,False
+FC051531,8527 Welch Valleys,8527 WELCH VALLEYS,Houston,TX,18176,Ricardo Ellis,318552,False,2012-12-09,2002,,,,,,,False,False,False,10,Cold,328350.0,-0.03,False
+AC974014,39261 Martin Garden Suite 856,39261 MARTIN GARDEN SUITE 856,Jacksonville,FL,99540,Rachel Norris,581465,False,2020-05-23,2006,161.0,0.0,,,,,True,False,False,10,Cold,413685.0,0.406,False
+AD677219,43842 Cunningham Trail Suite 881,43842 CUNNINGHAM TRAIL SUITE 881,San Antonio,TX,75567,Reginald Morrow,415845,False,2015-01-18,2007,,,,,,,False,False,False,10,Cold,328350.0,0.266,False
+BE619431,2655 Christopher Inlet,2655 CHRISTOPHER INLET,Orlando,FL,58793,Derrick Anderson,543014,False,2021-06-20,1987,94.0,0.0,,,,,True,False,False,10,Cold,413685.0,0.313,False
+BA582710,00684 Henderson Locks Apt. 889,00684 HENDERSON LOCKS APT. 889,Atlanta,GA,20513,Eric Dixon,128817,False,2002-09-19,1997,,,,,,,False,False,False,10,Cold,369973.0,-0.652,True
+DD053100,232 Caldwell Port,232 CALDWELL PORT,Tampa,FL,29070,David Wood,364680,False,2003-12-15,2009,,,,,,,False,False,False,10,Cold,413685.0,-0.118,True
+GA052427,28059 Russell Canyon,28059 RUSSELL CANYON,Columbus,OH,40905,Timothy Stanton,421737,False,2006-04-22,1995,,,,,,,False,False,False,10,Cold,230888.0,0.827,False
+BC925188,05664 Reese View Suite 231,05664 REESE VIEW SUITE 231,Tampa,FL,17742,Phillip Salazar,186168,False,2005-08-12,1958,,,,,,,False,False,False,10,Cold,413685.0,-0.55,True
+CH005281,8573 Hannah Knolls,8573 HANNAH KNOLLS,Atlanta,GA,95449,Steven Washington,144909,False,2018-11-11,1963,228.0,0.0,,,,,True,False,False,10,Cold,369973.0,-0.608,True
+FF699023,0272 Mcclain Plain Suite 760,0272 MCCLAIN PLAIN SUITE 760,Tampa,FL,68799,Nathaniel Stewart,111322,False,2010-08-02,2004,,,,,,,False,False,False,10,Cold,413685.0,-0.731,True
+BE556168,14586 Heather Ridge Apt. 198,14586 HEATHER RIDGE APT. 198,Jacksonville,FL,11992,Mr. Timothy Andersen,395420,False,2011-01-20,2000,,,,,,,False,False,False,10,Cold,413685.0,-0.044,False
+DD499939,1728 Joseph Landing,1728 JOSEPH LANDING,Dallas,TX,24615,Katherine Taylor,505712,False,2014-06-08,2004,,,,,,,False,False,False,10,Cold,328350.0,0.54,False
+BC361386,5011 Gregory Glen,5011 GREGORY GLEN,San Antonio,TX,73650,Roberto Bartlett,520764,False,2009-11-25,2009,,,,,,,False,False,False,10,Cold,328350.0,0.586,False
+CC910883,713 Davis Pass Suite 072,713 DAVIS PASS SUITE 072,San Antonio,TX,67773,Justin Hansen,582198,False,2013-08-11,1978,,,,,,,False,False,False,10,Cold,328350.0,0.773,False
+AG667665,091 Jaclyn Cliffs,091 JACLYN CLIFFS,Phoenix,AZ,47385,Ashley Buchanan,143945,False,2007-10-10,2000,,,,,,,False,False,False,10,Cold,460610.0,-0.687,True
+BG999173,0223 Ortiz Port Suite 252,0223 ORTIZ PORT SUITE 252,Jacksonville,FL,11093,Mr. Christopher Walters,383328,False,1999-12-12,1982,,,,,,,False,False,False,10,Cold,413685.0,-0.073,True
+DF583003,16894 Cameron Cape Suite 478,16894 CAMERON CAPE SUITE 478,Orlando,FL,78668,Jessica Mcdaniel,466096,False,1999-07-09,1979,,,,,,,False,False,False,10,Cold,413685.0,0.127,False
+FF779979,1774 Vargas Knoll,1774 VARGAS KNOLL,Columbus,OH,66998,Joel Johnson,529375,False,2015-12-24,1983,,,,,,,False,False,False,10,Cold,230888.0,1.293,False
+CB681149,3347 David Villages Apt. 005,3347 DAVID VILLAGES APT. 005,Atlanta,GA,43125,Julie Pitts,415486,False,2012-08-02,1962,,,,,,,False,False,False,10,Cold,369973.0,0.123,False
+CF270267,4890 Garcia Estates Apt. 347,4890 GARCIA ESTATES APT. 347,San Antonio,TX,83058,Patrick Green,169013,False,2003-11-16,2014,,,,,,,False,False,False,10,Cold,328350.0,-0.485,True
+AC987622,413 Randy Court,413 RANDY COURT,Columbus,OH,8862,Kara Brown,407530,False,2006-10-02,2000,,,,,,,False,False,False,10,Cold,230888.0,0.765,False
+BB104332,01338 Anna Stravenue Suite 379,01338 ANNA STRAVENUE SUITE 379,Nashville,TN,36964,Abigail Shaffer,585631,False,2005-08-26,2007,,,,,,,False,False,False,10,Cold,372985.0,0.57,False
+CB042284,05395 Grant Center,05395 GRANT CENTER,Orlando,FL,17115,Kelly Reese,319471,False,2003-12-17,2014,35.0,0.0,,,,,True,False,False,10,Cold,413685.0,-0.228,True
+ED237333,39521 Samantha Springs,39521 SAMANTHA SPRINGS,San Antonio,TX,87457,Aaron Vincent DVM,504991,False,2007-12-11,1983,,,,,,,False,False,False,10,Cold,328350.0,0.538,False
+ED027703,883 Emily Lake,883 EMILY LAKE,Charlotte,NC,31860,Vanessa Miller,572087,False,2000-06-19,2009,,,,,,,False,False,False,10,Cold,370385.0,0.545,False
+HE064090,533 Byrd Stravenue,533 BYRD STRAVENUE,Houston,TX,86901,Breanna Davis,427902,False,2012-08-15,1982,,,,,,,False,False,False,10,Cold,328350.0,0.303,False
+CB047095,6232 Schmidt Groves Apt. 474,6232 SCHMIDT GROVES APT. 474,Atlanta,GA,98354,Regina Mcdonald,267934,False,2019-02-10,1997,81.0,0.029,,,,,True,False,False,10,Cold,369973.0,-0.276,True
+DA097499,89623 Ashley Squares Apt. 307,89623 ASHLEY SQUARES APT. 307,Nashville,TN,41617,Jason Harris,108080,False,2000-05-08,2006,,,,,,,False,False,False,10,Cold,372985.0,-0.71,True
+FH836736,1565 Brooks Drives Suite 111,1565 BROOKS DRIVES SUITE 111,Charlotte,NC,12720,Patrick Watson,557574,False,2003-12-28,2015,,,,,,,False,False,False,10,Cold,370385.0,0.505,False
+HF074821,647 Gonzalez Lights Suite 136,647 GONZALEZ LIGHTS SUITE 136,Houston,TX,75464,Edward Lyons,90425,False,2007-05-07,2010,,,,,,,False,False,False,10,Cold,328350.0,-0.725,True
+EH341316,55341 Amanda Gardens Apt. 764,55341 AMANDA GARDENS APT. 764,Dallas,TX,84387,Colleen Nguyen,146802,False,2019-11-21,1967,,,,,,,False,False,False,0,Cold,328350.0,-0.553,True
+EA555438,0843 Matthew Lock Apt. 168,0843 MATTHEW LOCK APT. 168,Tampa,FL,89367,Lori Perez,197573,False,2020-09-28,1970,,,,,,,False,False,False,0,Cold,413685.0,-0.522,True
+HD083136,770 Kelly Lodge Apt. 495,770 KELLY LODGE APT. 495,Phoenix,AZ,62532,Hailey Barajas,460858,False,2022-09-28,2007,,,,,,,False,False,False,0,Cold,460610.0,0.001,False
+BG277584,9284 Garcia Islands,9284 GARCIA ISLANDS,Houston,TX,87129,Jeremy Robbins,417110,False,2016-11-13,2005,,,,,,,False,False,False,0,Cold,328350.0,0.27,False
+GB043289,41036 Brown Villages Suite 980,41036 BROWN VILLAGES SUITE 980,Tampa,FL,83332,Dana Thomas,132213,False,2022-01-08,1980,,,,,,,False,False,False,0,Cold,413685.0,-0.68,True
+HD765861,1040 Green Cove,1040 GREEN COVE,Atlanta,GA,10226,Stephen Martin,331296,False,2017-06-08,1979,,,,,,,False,False,False,0,Cold,369973.0,-0.105,True
+DC010512,8673 Soto Ferry,8673 SOTO FERRY,Charlotte,NC,84449,Jennifer Mclaughlin,91206,False,2019-09-15,2007,,,,,,,False,False,False,0,Cold,370385.0,-0.754,True
+CB484086,233 Ochoa Grove,233 OCHOA GROVE,Tampa,FL,52523,Tyler Stevens,325729,False,2018-03-09,1973,,,,,,,False,False,False,0,Cold,413685.0,-0.213,True
+GC086416,8376 Ann Street,8376 ANN ST,Houston,TX,69215,Benjamin Frank,388768,False,2022-12-26,2012,,,,,,,False,False,False,0,Cold,328350.0,0.184,False
+AB650948,38113 Lopez Pine Apt. 928,38113 LOPEZ PINE APT. 928,Charlotte,NC,98699,Nichole Miranda,187992,False,2018-11-14,2001,,,,,,,False,False,False,0,Cold,370385.0,-0.492,True
+BC803955,56829 Lopez Crescent Suite 504,56829 LOPEZ CRESCENT SUITE 504,Orlando,FL,54747,Shawn Watson,355971,False,2021-01-12,1963,,,,,,,False,False,False,0,Cold,413685.0,-0.14,True
+CG171870,74596 Melissa Walk,74596 MELISSA WALK,San Antonio,TX,88890,Jamie Stewart,220679,False,2021-05-17,1994,,,,,,,False,False,False,0,Cold,328350.0,-0.328,True
+HH484085,3581 Gary Trail,3581 GARY TRAIL,Jacksonville,FL,71014,Lori Clark,152894,False,2016-09-18,1997,,,,,,,False,False,False,0,Cold,413685.0,-0.63,True
+EH202590,58328 Kristie Estate Suite 886,58328 KRISTIE ESTATE SUITE 886,Tampa,FL,12552,Stephen Alvarado,250053,False,2019-08-03,1966,,,,,,,False,False,False,0,Cold,413685.0,-0.396,True
+DE072290,466 Stevens Forge Suite 489,466 STEVENS FORGE SUITE 489,Nashville,TN,52556,Adrienne Key,576819,False,2020-05-21,2007,,,,,,,False,False,False,0,Cold,372985.0,0.546,False
+DF897028,652 Barr Junctions Suite 497,652 BARR JUNCTIONS SUITE 497,Nashville,TN,25701,Diana Evans,411080,False,2019-10-12,2015,,,,,,,False,False,False,0,Cold,372985.0,0.102,False
+BC711592,985 Vang Pines Suite 789,985 VANG PINES SUITE 789,Las Vegas,NV,56888,Michael Farrell,422711,False,2022-08-20,2019,,,,,,,False,False,False,0,Cold,469878.0,-0.1,True
+GB588450,939 Tiffany Haven Suite 587,939 TIFFANY HAVEN SUITE 587,Orlando,FL,97038,Blake Austin,560711,False,2019-10-21,1996,,,,,,,False,False,False,0,Cold,413685.0,0.355,False
+FA627187,369 Mark Ridge,369 MARK RIDGE,Charlotte,NC,34540,Dennis Adams,293322,False,2022-06-12,1973,,,,,,,False,False,False,0,Cold,370385.0,-0.208,True

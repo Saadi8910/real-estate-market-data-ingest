@@ -47,25 +47,6 @@ python3 src/enrich_leads_with_market.py   # -> output/leads_with_market_context.
 have already been run (`python3 main.py` there), since it reads that
 project's `output/leads_scored.csv`.
 
-## About the sample fallback
+Offline fallback
 
-This sandboxed build environment used to write this project has no general
-internet access, so `fetch_zillow_zhvi.py` could not reach zillow.com while
-this repo was built — it fell back to `data/cache/state_zhvi_sample.csv`,
-which is **synthetic data generated to match Zillow's real column
-structure**, not real Zillow figures. Run the script yourself on a machine
-with normal internet access and it will pull the live file instead — no
-code changes needed. The fallback is logged loudly at runtime specifically
-so it's never mistaken for real data.
-
-## Interview talking points
-
-- Explain *why* this is a legitimate source (published-for-reuse CSV) vs.
-  scraping rendered HTML off a site that prohibits it — shows you think
-  about data-sourcing ethics/ToS, not just "can I get the bytes."
-- The wide-to-long reshape (`melt`) is a very common real data-engineering
-  step — most public time-series exports come in wide format and need to
-  be tidied before they're useful in SQL or Power BI.
-- The graceful network-failure fallback (with a loud, unambiguous label
-  on the sample data) shows defensive engineering — a pipeline that fails
-  silently into fabricated-looking data is worse than one that fails loudly.
+If zillow.com can’t be reached, fetch_zillow_zhvi.py falls back to data/cache/state_zhvi_sample.csv, a synthetic sample with the same column structure as the real Zillow export. The fallback is logged clearly at runtime so sample data is never mistaken for real figures. Run the script with internet access to pull the live file; no code changes are needed.
